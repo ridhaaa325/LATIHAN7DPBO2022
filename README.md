@@ -15,7 +15,7 @@ Cara kerja delete data ini, kita klik data yang ada di table terlebih dahulu, ba
 ![delete](https://user-images.githubusercontent.com/80692514/162023705-452ed84e-840b-4a24-b58d-3902a646a841.jpg)
 <br>
 ### Update Data
-Fungsi update data ini digunakan untuk mengubah status suatu task, misal yang asalnya belum menjadi sudah.
+Fungsi update data ini digunakan untuk mengubah status suatu task, misal yang asalnya belum menjadi selesai.
 ![update](https://user-images.githubusercontent.com/80692514/162023698-4a9ad734-1da1-4ea8-ab35-9d0ed7343c07.jpg)
 <br>
 
