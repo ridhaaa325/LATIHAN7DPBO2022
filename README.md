@@ -1,12 +1,13 @@
 # LATIHAN7DPBO2022
-Saya Muhammad Ridha Samudra dengan NIM 2001680 mengerjakan Latihan 5 pada mata kuliah Desain Pemrograman Beriorientasi Objek
+Saya Muhammad Ridha Samudra dengan NIM 2001680 mengerjakan Latihan 7 pada mata kuliah Desain Pemrograman Beriorientasi Objek
 untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 <br>
 <br>
 ### Tampilan Landing Page
 ![landing page](https://user-images.githubusercontent.com/80692514/162022096-49d6114e-3ab3-496f-ac1d-6f5a150cf65a.jpg)
 <br>
-### Add data
+### Add Data
+Cara kerja add data ini ialah, ketika kita isi data di form lalu kita klik tombol add, maka data akan ditampilkan di table.
 ![add](https://user-images.githubusercontent.com/80692514/162022104-1f4f4a6b-0edc-4922-b197-619d50447820.jpg)
 <br>
 ### Delete Data
