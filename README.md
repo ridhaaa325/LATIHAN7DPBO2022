@@ -4,18 +4,18 @@ untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah di
 <br>
 <br>
 ### Tampilan Landing Page
-![landing page](https://user-images.githubusercontent.com/80692514/162022096-49d6114e-3ab3-496f-ac1d-6f5a150cf65a.jpg)
+![landing page](https://user-images.githubusercontent.com/80692514/162023683-61cd386c-025b-48fd-b316-352062778dac.jpg)
 <br>
 ### Add Data
 Cara kerja add data ini ialah, ketika kita isi data di form lalu kita klik tombol add, maka data akan ditampilkan di table.
-![add](https://user-images.githubusercontent.com/80692514/162022104-1f4f4a6b-0edc-4922-b197-619d50447820.jpg)
+![add](https://user-images.githubusercontent.com/80692514/162023703-c5dbf8b0-f98b-4fae-92ab-f75ac94d315e.jpg)
 <br>
 ### Delete Data
 Cara kerja delete data ini, kita klik data yang ada di table terlebih dahulu, baru kita klik tombol delete.
-![Delete](https://user-images.githubusercontent.com/80692514/159227457-4e2c575e-562b-4876-aa49-c623b93e6522.jpg)
+![delete](https://user-images.githubusercontent.com/80692514/162023705-452ed84e-840b-4a24-b58d-3902a646a841.jpg)
 <br>
 ### Update Data
 Fungsi update data ini digunakan untuk mengubah status suatu task, misal yang asalnya belum menjadi sudah.
-![update](https://user-images.githubusercontent.com/80692514/162022103-9dc89b6b-bf53-4402-b82e-d20437996eab.jpg)
+![update](https://user-images.githubusercontent.com/80692514/162023698-4a9ad734-1da1-4ea8-ab35-9d0ed7343c07.jpg)
 <br>
 
